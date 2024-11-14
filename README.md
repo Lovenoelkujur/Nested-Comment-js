@@ -83,7 +83,6 @@ This project implements a nested comments feature where users can add, reply, ed
 ---
 
 ## Credits
-- **Avatar Images**: [PngTree](https://pngtree.com/)
 - **Developer**: Noel Kujur
 
 ---
